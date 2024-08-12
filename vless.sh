@@ -29,7 +29,7 @@ deploy_vless() {
     # 安装依赖
     npm install --prefix ./vless
     # 进入工作目录
-    cp -r ./vless ~/domains/$USER.serv00.net
+    cp -r ./vless ~/domains/qiufenglangzi123.serv00.net
 # ANSI颜色码
 GREEN='\033[0;32m'
 NC='\033[0m'  # 恢复默认颜色
